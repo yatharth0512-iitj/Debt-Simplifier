@@ -1,4 +1,3 @@
-
 # 💸 Debt Simplifier Visualizer
 
 A Streamlit web application to visualize and simplify debt transactions among a group of people. Instead of tracking who owes what to whom manually, this app helps you:
@@ -18,6 +17,10 @@ A Streamlit web application to visualize and simplify debt transactions among a 
 
 ---
 
+## Results 
+<img src="images/input.png" alt="Input Image" width="500">
+<img src="images/output.png" alt="Input Image" width="500">
+
 ## 🧑‍💻 Tech Stack
 
 - [Streamlit](https://streamlit.io/) – UI framework
@@ -30,7 +33,7 @@ A Streamlit web application to visualize and simplify debt transactions among a 
 
 1. **Clone the repository / unzip project**
 ```bash
-git clone https://github.com/yourusername/debt-simplifier.git
+git clone https://github.com/Ananya0104/Cashflow-Minimizer.git
 cd debt-simplifier
 ```
 
@@ -46,6 +49,7 @@ pip install -r requirements.txt
 ```
 
 ---
+
 
 ## ▶️ Run the App
 
@@ -87,4 +91,3 @@ Debt Simplifier/
 - Export transactions to CSV
 - Edit/delete specific transactions
 - Group-based transaction summaries
-
